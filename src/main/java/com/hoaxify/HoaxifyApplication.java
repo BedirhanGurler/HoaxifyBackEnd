@@ -8,7 +8,7 @@ public class HoaxifyApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(HoaxifyApplication.class, args);
-        //Bedirhan Gürler
+        //By Bedirhan Gürler
     }
 
 }
